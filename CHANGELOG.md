@@ -1,5 +1,11 @@
 # create-rubric-app
 
+## 1.4.14
+
+### Patch Changes
+
+- f2fc923: Stream LLM Messages and Descriptive Agent Action Logging
+
 ## 1.4.13
 
 ### Patch Changes
